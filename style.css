@@ -546,6 +546,9 @@ address {
   .reach {
     flex-flow: column;
   }
+  footer {
+    padding: 2rem;
+  }
 }
 
 @media screen and (max-width: 1000px) {
