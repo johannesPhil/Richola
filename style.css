@@ -142,10 +142,10 @@ img {
 .action-link {
   position: relative;
   display: block;
-  min-width: 15rem;
+  min-width: 20rem;
   min-height: 3rem;
   overflow: hidden;
-  padding: 1rem 5rem;
+  padding: 1rem 3rem;
   margin: 2rem 0;
   text-decoration: none;
   color: #fff;
