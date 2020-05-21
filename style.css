@@ -367,11 +367,12 @@ footer {
   padding: 2rem 0;
   display: flex;
   justify-content: space-between;
+  align-items: flex-end;
   flex-flow: row wrap;
   border-bottom: solid 0.1rem #636363;
 }
 .reach__header {
-  width: 60%;
+  width: 100%;
 
   align-self: flex-start;
   color: #a7a6a6;
