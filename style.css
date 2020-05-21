@@ -390,11 +390,18 @@ footer {
   justify-content: flex-start;
   align-items: center;
 }
+.address-col{
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: flex-start;
+}
 address {
   display: block;
 }
 .contact-link {
   color: #fff;
+  margin: 1rem 0;
 
   text-decoration: none;
 }
@@ -478,6 +485,7 @@ address {
   width: 200px;
   height: 200px;
   flex: 0 1 auto;
+  transform: scale(.5);
 }
 
 .address-icon {
